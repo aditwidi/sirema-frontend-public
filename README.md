@@ -12,5 +12,5 @@
 - Jihan Maisaroh            (222112122)
 - Luthfiani Nur Aisyah      (222112162)
 - Samuel Maruba Manik       (222112348)
-- Yogra Pratama             (222112419)
+- Yoga Pratama             (222112419)
 ```
